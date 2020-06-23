@@ -1,9 +1,7 @@
-package model.epanet.element.utils;
+package model.epanet.hydraulicsimulation;
 
 import epanet.core.*;
 import exception.ApplicationException;
-import model.epanet.element.result.LinkSimulationResult;
-import model.epanet.element.result.NodeSimulationResult;
 import org.jetbrains.annotations.NotNull;
 
 import java.net.URISyntaxException;

@@ -1,4 +1,4 @@
-package model.epanet.element.result;
+package model.epanet.hydraulicsimulation;
 
 /**
  * This class is used to store the result value of a simulation for the nodes.

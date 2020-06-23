@@ -1,15 +1,14 @@
-package model.epanet.element.result;
+package model.epanet.hydraulicsimulation;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.*;
 
 class ResultSimulationTest {
-    private static class ResultStub extends ResultSimulation{
+    private static class ResultStub extends ResultSimulation {
         public ResultStub(String id,long timeInSeconds) {
             super(id, timeInSeconds);
         }

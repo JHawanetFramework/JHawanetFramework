@@ -1,4 +1,4 @@
-package model.epanet.element.result;
+package model.epanet.hydraulicsimulation;
 
 import org.jetbrains.annotations.NotNull;
 
