@@ -52,7 +52,7 @@ Para poder ejecutar la aplicación se tienen los siguientes requisitos:
 * link:https://www.epa.gov/water-research/epanet[EpanetToolkit 2.0]
 
 === Como instalar el software
-Para instalar la aplicación se necesita tener instalado en el sistema Java 1.8 64bits y Maven. El código de la aplicación se encuentra alojado en github en el siguiente link:https://github.com/EinherjarSt/ProyectoDeMemoria[repositorio]. A continuación se explica como instalar cada uno de estos elementos.
+Para instalar la aplicación se necesita tener instalado en el sistema Java 1.8 64bits y Maven. El código de la aplicación se encuentra alojado en github en el siguiente link:https://github.com/JHawanetFramework/JHawanetFramework[repositorio]. A continuación se explica como instalar cada uno de estos elementos.
 
 ==== Como instalar Java
 Para instalar java vaya al siguiente link:https://www.oracle.com/cl/java/technologies/javase/javase-jdk8-downloads.html[enlace]. Una vez en el enlace descargue el la versión de java para Window x64 como se muestra en la siguiente imagen.
